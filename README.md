@@ -11,22 +11,23 @@ Analytics engine that powers the Fabric platform (requires the Fabric framework)
 Website: [https://fabric.io/kits/ios/answers](https://fabric.io/kits/ios/answers)
 
 | Platform | Lines to add to your Cartfile |
-| -------- | -------- |
-| iOS      | `binary "https://swell-investing.github.io/Specs/Carthage/iOS/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/iOS/Fabric.json"` |
-| tvOS     | `binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Fabric.json"` |
-| macOS    | `binary "https://swell-investing.github.io/Specs/Carthage/macOS/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/macOS/Fabric.json"` |
+| --------- | -------- |
+| Universal | `binary "https://swell-investing.github.io/Specs/Carthage/Universal/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/Universal/Fabric.json"` |
+| iOS       | `binary "https://swell-investing.github.io/Specs/Carthage/iOS/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/iOS/Fabric.json"` |
+| tvOS      | `binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Fabric.json"` |
+| macOS     | `binary "https://swell-investing.github.io/Specs/Carthage/macOS/Answers.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/macOS/Fabric.json"` |
 
 ### Crashlytics
 Powerful, yet lightweight crash reporting solution (requires the Fabric framework).<br>
 Website: [https://fabric.io/kits/ios/crashlytics](https://fabric.io/kits/ios/crashlytics)
 
 | Platform | Lines to add to your Cartfile |
-| -------- | -------- |
-| iOS      | `binary "https://swell-investing.github.io/Specs/Carthage/iOS/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/iOS/Fabric.json"` |
-| tvOS     | `binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Fabric.json"` |
-| macOS    | `binary "https://swell-investing.github.io/Specs/Carthage/macOS/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/macOS/Fabric.json"` |
+| --------- | -------- |
+| Universal | `binary "https://swell-investing.github.io/Specs/Carthage/Universal/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/Universal/Fabric.json"` |
+| iOS       | `binary "https://swell-investing.github.io/Specs/Carthage/iOS/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/iOS/Fabric.json"` |
+| tvOS      | `binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/tvOS/Fabric.json"` |
+| macOS     | `binary "https://swell-investing.github.io/Specs/Carthage/macOS/Crashlytics.json"`<br>`binary "https://swell-investing.github.io/Specs/Carthage/macOS/Fabric.json"` |
 
 ## Contribute
 
 If you want to add a popular framework to this list or if you notice that one of the JSON files is outdated, feel free to drop me a [pull request](https://github.com/Building42/Specs/pulls) and I'll merge it in.
-
